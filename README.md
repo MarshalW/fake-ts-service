@@ -17,3 +17,12 @@ npm version patch
 npm publish
 ```
 
+另外，实现了一个命令行工具的示例：
+
+```bash
+# 全局安装
+npm i -G fake-ts-service
+
+# 运行
+fake-service
+```
