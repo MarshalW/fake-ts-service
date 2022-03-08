@@ -15,5 +15,5 @@ npm version patch
 
 # 发布当前更新的 npm 包
 npm publish
-···
 ```
+
