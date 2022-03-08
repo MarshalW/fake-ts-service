@@ -5,7 +5,7 @@
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "bin": {
-    "fake-service": "./lib/index.js"
+    "fake-service": "./bin/fake.sh"
   },
   "type": "module",
   "scripts": {
