@@ -4,7 +4,9 @@
   "description": "",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
-  "bin": "fake-service",
+  "bin": {
+    "fake-service": "./lib/index.js"
+  },
   "type": "module",
   "scripts": {
     "test": "jest --config jestconfig.json",
